@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Temp
+title: Discussion one
 ---
-
-This is a temporary post. 
+What do you think Data Science is about? In my opinion, data science uses a combination of computer science and statistics to analyze data. They are able to transform data using computer science and to me that is fascinating. They also deal with a lot of large scale data. 
+What do you see as the major duties/knowledge areas? One of the major knowledge areas that a data scientist should have is in programming. Although a solid foundation in statistics would also be important, I think they really need to understand how to handle large amounts of data. In my opinion, how they believe in modeling the data is important as well
+What differences/similarities do you see between data scientists and statisticians? Data scientists seem to follow a data science process which allows them to transform data, ingest data, and further explore data analysis. They follow statistical methods behind the scenes but a lot of time a data scientist would need the help of a statistician when on topic of specific data sets. On the other hand, a statistician would probably need help from a data scientist with a high-dimentionality data set with 5 billion rows and 10,000 variables. A similarity is their reasoning for gathering information although they collect the data differently. While data scientists focus on comparing a number of different methods to create the best machine learning model, statisticians work to improve a single model to best fit the data.
+How do you view yourself in relation to these two areas? That's a good question, I'm not sure! Right now I think I lean more towards the traditional statistician viewpoint but this class may change my mind. When searching for jobs, I noticed that a lot of people are hiring for data scientists and not statisticians. I do agree that they both need to find common ground because there is a need for both data scientists and statisticians. 
