@@ -10,7 +10,7 @@ Cheers!
 
 ### More Information
 
-(![Cooper](https://user-images.githubusercontent.com/89160591/131153423-fd52029b-ed67-4b2e-a8d4-81137bd05375.JPG)
+![Cooper](https://user-images.githubusercontent.com/89160591/131153423-fd52029b-ed67-4b2e-a8d4-81137bd05375.JPG)
 
 The photo that I've added here is of Cooper helping me out at work. 
 
