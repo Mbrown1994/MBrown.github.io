@@ -16,6 +16,10 @@ plot(iris)
 knitr::opts_chunk$set(fig.path = "../images/")  
 ```  
 
+!["unnamed-chunk-4-1"](_posts/2021-9-14-Second-Blog-Post_files/figure-gfm/unnamed-chunk-4-1.png)
+
+
+
 ```{r, include=FALSE}  
 library(rmarkdown)
 rmarkdown::render("~/Desktop/R Programming/git-project/MBrown1994.github.io/_Rmd/2021-9-14-Second-Blog-Post.Rmd",
