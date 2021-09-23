@@ -16,6 +16,9 @@ exposed to programming previously. This class has been very helpful,
 though!
 
 ## Example R Markdown output
+```{r, include=TRUE}
+plot(iris)
+```
 
 ![](/Users/marybrown/Desktop/R%20Programming/git-project/MBrown1994.github.io/_posts/2021-9-14-Second-Blog-Post_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
 
