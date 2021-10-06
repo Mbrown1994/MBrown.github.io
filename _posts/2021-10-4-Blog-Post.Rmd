@@ -1,7 +1,7 @@
 Project 
 ================
 Mary Brown
-10/5/2021  
+10/6/2021  
 
 ## Project One Discussion  
   For this particular project I wanted to use data that was easy to pull from the API to make my functions. I first went through and reviewed all of the API links and decided that it was probably best to work with the COVID API. There was a lot of data within this API that seemed very comparable, especially for the graphs/plots portion of this project. One piece of interesting data was being able to compare the amount of deaths in different countries. For example, my bar plot shows the amount of deaths by chosen country codes. Out of the countries shown on my bar plot, Argentina seems to have more total deaths compared to Afganistan, Australia, etc. I created two boxplots to show the active cases in the United States vs. the active cases in South Africa which also showed interesting results. South Africa seems to have more active cases when compared to the United States which makes me wonder if this is partially due to resources.  
