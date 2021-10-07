@@ -36,4 +36,4 @@ the summary data.
 
 Link to my Github pages repo:
 <https://mbrown1994.github.io/Project-1-558/>  
-Link to my usual repo: <https://mbrown1994.github.io>
+Link to my usual repo: <https://github.com/Mbrown1994/Project-1-558>
