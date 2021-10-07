@@ -34,7 +34,7 @@ became easier to create functions after I created graphs with the data
 because then I understood better what endpoints I was going to need for
 the summary data.
 
-Link to my Project Repo (GitHub):
-<https://github.com/Mbrown1994/Project-1-558>  
+Link to my Github pages repo:
+<https://mbrown1994.github.io/Project-1-558/>  
 Link to my usual repo, where my blog has been rendered:
 <https://github.com/Mbrown1994/MBrown1994.github.io>
