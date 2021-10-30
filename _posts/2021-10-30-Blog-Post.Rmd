@@ -9,7 +9,8 @@ Mary Brown
   I did enjoy the push/pull aspect of GitHub. It makes it easier to work on things with a collaborator and I can see how in real world research scenarios, that can become very useful. Utilizing and getting more familiar with Github was definitely the big take away for me so I feel like in the future it may be a little easier to use.
   
   
-The link to my GitHub page for Project Two [can be found here](https://mbrown1994.github.io/Project-2-558/)
+The link to my GitHub page for Project Two [can be found here](https://mbrown1994.github.io/Project-2-558/)  
+
 The link to my usual repo can be [can be found here](https://github.com/Mbrown1994/Project-2-558)
 
 
