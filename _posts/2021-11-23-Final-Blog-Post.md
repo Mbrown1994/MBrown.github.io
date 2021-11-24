@@ -1,4 +1,4 @@
-# Final Blog Post
+# Class Wrap-up
 
 Mary Brown 11/23/2021
 
